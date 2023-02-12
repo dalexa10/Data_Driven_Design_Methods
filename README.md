@@ -3,6 +3,6 @@ A repo that contains some examples of how design optimization works with UQ and 
 
 I am NOT a big Matlab fan, but it is what it is and this is how the course works
 
-Examples writen in Matlab
+Examples written in Matlab scripts
 
-Assignments solved in Python 
+Assignments solved in Python scripts (See .pdf for reference of problems)
